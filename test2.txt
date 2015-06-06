@@ -1,5 +1,10 @@
 test1
 test2
 test3
+<<<<<<< HEAD
 test44
 test5
+=======
+test4
+test55
+>>>>>>> origin/master
